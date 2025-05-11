@@ -1,0 +1,7 @@
+{
+    "notebook.compactView": false,
+    "notebook.defaultFormatter": null,
+    "notebook.formatOnCellExecution": false,
+    "notebook.formatOnSave.enabled": true,
+    "notebook.outline.showCodeCells": true
+}
